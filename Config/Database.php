@@ -8,7 +8,7 @@ class Database
 	var $host = 'localhost';
 	var $uname = 'root';
 	var $pass = '';
-	var $db = 'unbin_uts';
+	var $db = 'uts_pl2';
 
 	function connect()
 	{
